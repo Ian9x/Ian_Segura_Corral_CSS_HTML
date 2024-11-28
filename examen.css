@@ -1,0 +1,10 @@
+body{background:deeppink;}
+.barradenavegacion{background-color: #ffa500 ;border: 3px, solid, black;top: 10px;margin: 10px;font-style: italic;position: static;}
+.cuadrado{width: 100px; height: 100px; background-color: aqua;position: static;}
+.circulo{width: 100px; height: 100px; background-color: green; border-radius: 50px;position:sticky;}
+.rombo{width: 100px; height: 100px; background-color: palevioletred; rotate: 45deg;}
+.texto1{font-family: Arial, Helvetica, sans-serif; color: rgb(250, 0, 0);}
+.texto2{position: relative;top: 36px;left: 30px;right: 10px;}
+.texto3{position: relative;top: 39px;left: 23px;right: 10px;}
+.texto4{position: relative;top: 36px;left: 30px;right: 10px;}
+.texto5{position: relative;top: 36px;left: 30px;right: 10px;}
